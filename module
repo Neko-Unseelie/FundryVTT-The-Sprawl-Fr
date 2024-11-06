@@ -1,0 +1,282 @@
+{
+  "id": "the-sprawl-pbta-fr",
+  "title": "The Sprawl (PbtA) FR",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pbta",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "The Sprawl pour le système Powered By The Apocalypse",
+  "authors": [
+    {
+      "name": "Neko",
+      "email": "nekounseelie@gmail.com",
+      "discord": "neko_unseelie",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "manoeuvres-basiques",
+      "label": "Manoeuvres basiques",
+      "path": "packs/manoeuvres-basiques",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "manoeuvres-peripheriques",
+      "label": "Manoeuvres périphériques",
+      "path": "packs/manoeuvres-peripheriques",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "operations",
+      "label": "Opérations",
+      "path": "packs/operations",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "matrice",
+      "label": "Matrice",
+      "path": "packs/matrice",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "livrets-originaux",
+      "label": "Livrets originaux",
+      "path": "packs/livrets-originaux",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "armes",
+      "label": "Armes",
+      "path": "packs/armes",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "implants-cybernetiques",
+      "label": "Implants cybernétiques",
+      "path": "packs/implants-cybernetiques",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "armures",
+      "label": "Armures",
+      "path": "packs/armures",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vehicules",
+      "label": "Véhicules",
+      "path": "packs/vehicules",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "drones",
+      "label": "Drones",
+      "path": "packs/drones",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "agitateur",
+      "label": "Agitateur",
+      "path": "packs/agitateur",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "clone",
+      "label": "Clone",
+      "path": "packs/clone",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "fixeur",
+      "label": "Fixeur",
+      "path": "packs/fixeur",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hacker",
+      "label": "Hacker",
+      "path": "packs/hacker",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "infiltre",
+      "label": "Infiltré",
+      "path": "packs/infiltre",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "limier",
+      "label": "Limier",
+      "path": "packs/limier",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pilote",
+      "label": "Pilote",
+      "path": "packs/pilote",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "reporter",
+      "label": "Reporter",
+      "path": "packs/reporter",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "soldat",
+      "label": "Soldat",
+      "path": "packs/soldat",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tech",
+      "label": "Tech",
+      "path": "packs/tech",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tueur",
+      "label": "Tueur",
+      "path": "packs/tueur",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipement",
+      "label": "Équipement",
+      "path": "packs/equipement",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "consoles-matricielles",
+      "label": "Consoles matricielles",
+      "path": "packs/consoles-matricielles",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+  ]
+}
